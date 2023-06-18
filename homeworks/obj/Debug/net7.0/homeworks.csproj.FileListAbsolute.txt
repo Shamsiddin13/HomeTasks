@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\bin\Debug\net7.0\homeworks.exe
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\bin\Debug\net7.0\homeworks.deps.json
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\bin\Debug\net7.0\homeworks.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\bin\Debug\net7.0\homeworks.dll
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\bin\Debug\net7.0\homeworks.pdb
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\obj\Debug\net7.0\homeworks.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\obj\Debug\net7.0\homeworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\obj\Debug\net7.0\homeworks.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\obj\Debug\net7.0\homeworks.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\obj\Debug\net7.0\homeworks.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\obj\Debug\net7.0\homeworks.dll
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\obj\Debug\net7.0\refint\homeworks.dll
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\obj\Debug\net7.0\homeworks.pdb
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\obj\Debug\net7.0\homeworks.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\C# Lessons\Library\homeworks\homeworks\obj\Debug\net7.0\ref\homeworks.dll
